@@ -35,7 +35,7 @@ The project includes visualizations of news trends, candidate coverage, and sent
 
 ### News Distribution by Candidate Pair
 
-![News Distribution by Candidate Pair](candidate_news_dstribution.png)
+![News Distribution by Candidate Pair](candidate_news_distribution.png)
 
 ### Monthly News Publication Trend
 
