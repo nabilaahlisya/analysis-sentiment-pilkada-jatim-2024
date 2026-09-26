@@ -31,28 +31,26 @@ The dataset consists of Indonesian news articles related to the 2024 East Java r
 
 ## Visualization
 
-The project includes visualizations of:
+The project includes visualizations of news trends, candidate coverage, and sentiment analysis.
 
-* News distribution by candidate pair
-* Monthly news publication trends
-* Word frequency
-* Word clouds
-* Sentiment distribution
-* Sentiment analysis by candidate pair
+### News Distribution by Candidate Pair
+
+![News Distribution by Candidate Pair](candidate_news_distribution.png)
+
+### Monthly News Publication Trend
+
+![Monthly News Publication Trend](monthly_news_trend.png)
+
+### Sentiment Distribution
+
+![Sentiment Distribution](sentiment_distribution.png)
+
+### Word Cloud
+
+![Word Cloud](wordcloud.png)
 
 ## Project Notebook
 
 The complete analysis is available in the Jupyter Notebook.
 
 **[Open in Google Colab](https://colab.research.google.com/drive/1faqv1UWajrGk3mYwTgpE0LDkL34nnRYO?usp=sharing)**
-
-## Project Structure
-
-```text
-sentiment-analysis-pilkada-jatim/
-│
-├── Sentiment_Analysis_Pilkada_Jatim.ipynb
-├── README.md
-├── .gitignore
-└── images/
-```
